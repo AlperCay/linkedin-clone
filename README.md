@@ -1,2 +1,2 @@
-# linkedin-clone
-linkedin-clone
+# linkedinClone
+simple HTML linkedin clone with bootstrap
